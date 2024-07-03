@@ -2,4 +2,9 @@ div{
     background-color: tomato;
     padding: 20px;
     margin-bottom: 10px;
+    
+}
+.ancara{
+    background-image: url(images/1442809583.webp);
+    background-size:cover;
 }
